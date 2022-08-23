@@ -1,17 +1,17 @@
 <p  align="center">
-  <img src="https://github.com/thaihunghuynh/thaihunghuynh/blob/master/img/hello.gif">
+  <img src="https://github.com/thaihunghuynh/thaihunghuynh/blob/main/img/hello.gif">
   </br>
 </p>
 
 <p  align="center">
   
-  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/master/profile-summary-card-output/solarized/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/main/profile-summary-card-output/solarized/0-profile-details.svg">
    </br>
-  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
+  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/main/profile-summary-card-output/solarized/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/main/profile-summary-card-output/solarized/2-most-commit-language.svg">
    </br>
-  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/master/profile-summary-card-output/solarized/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/master/profile-summary-card-output/solarized/4-productive-time.svg">
+  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/main/profile-summary-card-output/solarized/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/thaihunghuynh/thaihunghuynh/main/profile-summary-card-output/solarized/4-productive-time.svg">
    </br>
 </p>
 
